@@ -7,19 +7,22 @@
 </head>
 <body>
     <header>
-        <nav>
-            <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Services</a></li>
-                <li><a href="#">Contact</a></li>
-            </ul>
-        </nav>
+        <div class="container">
+            <h1 class="logo">My Website</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Services</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
     </header>
 
     <section class="hero">
         <div class="container">
-            <h1>Welcome to my Beautiful Website</h1>
+            <h1>Welcome to My Beautiful Website</h1>
             <p>Explore and discover amazing content.</p>
             <a href="#" class="btn">Get Started</a>
         </div>
